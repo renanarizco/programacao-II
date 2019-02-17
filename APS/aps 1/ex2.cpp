@@ -2,13 +2,13 @@
 #include <locale>
 using namespace std;
 
-//Método principal
+//MÃ©todo principal
 void main()
 {
 	setlocale(LC_ALL, "Portuguese");
 	int entradas;
 	
-	cout << "Digite quantas vezes o programa irá repetir: ";
+	cout << "Digite quantas vezes o programa irÃ¡ repetir: ";
 	cin >> entradas;
 	cout << endl;
 

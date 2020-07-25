@@ -1,0 +1,4 @@
+﻿  Ex6.cpp
+g:\arquivos\1faculdade\faculdade\3 semestre\omar\aps 03 omar\aps03\ex6\ex6.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+g:\arquivos\1faculdade\faculdade\3 semestre\omar\aps 03 omar\aps03\ex6\ex6.cpp(13): warning C4101: 'i': unreferenced local variable
+  Ex6.vcxproj -> G:\Arquivos\1Faculdade\Faculdade\3 SEMESTRE\omar\aps 03 omar\Aps03\Debug\Ex6.exe

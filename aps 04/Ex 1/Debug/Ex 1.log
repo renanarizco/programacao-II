@@ -1,0 +1,3 @@
+﻿  Computador.cpp
+g:\arquivos\faculdade\faculdade\3 semestre\omar\aps 04 omar\ex 1\computador.cpp(44): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Ex 1.vcxproj -> G:\Arquivos\Faculdade\Faculdade\3 SEMESTRE\omar\aps 04 omar\Debug\Ex 1.exe

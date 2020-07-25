@@ -1,0 +1,4 @@
+﻿  Ex1.cpp
+g:\arquivos\1faculdade\faculdade\3 semestre\omar\aps 03 omar\aps03\ex1\ex1.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+g:\arquivos\1faculdade\faculdade\3 semestre\omar\aps 03 omar\aps03\ex1\ex1.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  Ex1.vcxproj -> G:\Arquivos\1Faculdade\Faculdade\3 SEMESTRE\omar\aps 03 omar\Aps03\Debug\Ex1.exe
